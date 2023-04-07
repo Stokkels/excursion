@@ -1,0 +1,45 @@
+html{
+    margin: auto;
+    padding: auto;
+
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    z-index: 0;
+}
+
+h1{
+    font-weight: normal;
+    font-size: 50px;
+
+}
+
+h2{
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+p{
+    color: grey;
+    font-size: 21px;
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end;
+}
+
+img {
+    padding-top: 20px;
+}
+
+.download {
+    color: aquamarine;
+    font-size: 1rem;
+}
+
